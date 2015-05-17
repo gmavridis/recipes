@@ -1,18 +1,18 @@
-Zutaten:
- - 3 Auberginen
- - 100-200 ml Olivenöl 
- - 3 Knoblauchzehen
- - 2 Dosen gehackte Tomaten
- - Salz + Pfeffer
- - Italienische Kräuter
+ingredients:
+  - 3 Eggplant
+  - 100-200 ml olive oil
+  - 3 cloves of garlic
+  - 2 cans chopped tomatoes
+  - Salt + Pepper
+  - Italian herbs
 
-Anleitung:
-  Auberginen vierteln, und dann in 1,5-3 cm große Streifen schneiden 
- 
-  Knoblauch klein hacken.
- 
-  Das Öl mit dem gehackten Knoblauch im Topf erhitzen und die Auberginen anbraten.
+instructions:
+   Aubergine into quarters, then cut into 1.5-3 cm strips
+ 
+   Finely chop garlic.
+ 
+   The oil with the chopped garlic in saucepan and fry the eggplant.
 
-  Mit den gehackten Tomaten (und ggf. etwas Wasser oder Rotwein) löschen.
+   With the chopped tomatoes (and possibly some water or wine) Delete.
 
-  Mit Salz, Pfeffer und italienischen kräutern abschmecken.
+   Season with salt, pepper and Italian herbs.
